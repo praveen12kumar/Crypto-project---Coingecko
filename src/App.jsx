@@ -1,4 +1,4 @@
-
+import CoinTable from './components/CoinTable/CoinTable'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      hello
+      <CoinTable/>
     </>
   )
 }
